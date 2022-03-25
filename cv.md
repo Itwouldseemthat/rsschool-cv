@@ -1,6 +1,6 @@
 * ## My Name
     * ### Nikita Tsukanov
-![my photo](img/myphoto.jpg)
+![my photo](img/myph.jpg)
 * ## Contacts
     * #### Email: ataka.tsukanov@gmail.com
     * #### GitHub: [Itwouldseemthat](https://github.com/Itwouldseemthat)
